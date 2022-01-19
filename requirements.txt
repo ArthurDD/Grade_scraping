@@ -1,0 +1,9 @@
+requests
+selenium
+time
+bs4
+urllib3
+xlwt
+xlrd
+pickle
+flask
